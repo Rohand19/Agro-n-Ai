@@ -1,0 +1,64 @@
+.group1-group1 {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    position: relative;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+  }
+  .group1-svg {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+  }
+  .group1-svg1 {
+    top: 100%;
+    width: 100%;
+    height: 100%;
+    position: absolute;
+  }
+  .group1-svg2 {
+    top: 559.7864990234375px;
+    left: 226.20330810546875px;
+    width: 100%;
+    height: 100%;
+    position: absolute;
+  }
+  .group1-image6a2d-a-e-a06d-e742d-b9f-f-e1e6470624c-f41 {
+    top: 105px;
+    left: 655px;
+    width: 810px;
+    height: 823px;
+    position: absolute;
+    box-sizing: border-box;
+    object-fit: cover;
+    border-color: transparent;
+  }
+  .group1-svg3 {
+    top: 339px;
+    left: 3488px;
+    width: 219;
+    height: 240;
+    position: absolute;
+  }
+  .group1-svg4 {
+    top: 305px;
+    left: 3913.5068359375px;
+    width: 232;
+    height: 203;
+    position: absolute;
+  }
+  .group1-rectangle5 {
+    top: 922px;
+    left: 0px;
+    width: 4125px;
+    height: 40px;
+    position: absolute;
+    box-sizing: border-box;
+    object-fit: cover;
+    border-color: transparent;
+    background-color: rgba(0, 0, 0, 1);
+  }
+  
